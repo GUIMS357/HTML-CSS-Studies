@@ -1,0 +1,66 @@
+.flex-conteiner
+{
+    display: flex;
+    column-count: 4;
+    column-gap: 10px;
+}
+h1
+{
+    font-size: 50px;
+}
+
+#div1
+{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    width: 400px;
+    height: 750px;
+    column-gap: 5px;
+    background-image: linear-gradient(red,white);
+    border-radius: 25px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+#div2
+{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    width: 400px;  
+    height: 750px;
+    column-gap: 5px;
+    background-image: linear-gradient(black,blue,white);
+    border-radius: 25px;
+    border-style: solid;
+    border-color: black;
+}
+
+#div3
+{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    width: 400px;
+    height: 750px;
+    column-gap: 5px;
+    background-image: linear-gradient(rgb(0, 145, 27),white);
+    border-radius: 25px;
+    border-style: solid;
+    border-color: black;
+}
+#div4
+{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    width: 400px;
+    height: 750px;
+    column-gap: 5px;
+    background-image: linear-gradient(rgb(139, 0, 81),white);
+    border-radius: 25px;
+    border-style: solid;
+    border-color: black;
+}
